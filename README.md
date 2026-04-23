@@ -1,1 +1,1 @@
-# open-visuals
+# open-visual
