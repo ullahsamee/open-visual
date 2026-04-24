@@ -6,8 +6,6 @@ Two companion actions are included so users can reopen a finished visual or keep
 
 <video src="./banner.webm" controls muted loop playsinline></video>
 
-If your GitHub client does not render the preview inline, open [banner.webm](./banner.webm).
-
 ## Included Files
 
 | File | Install In Open WebUI | Purpose |
