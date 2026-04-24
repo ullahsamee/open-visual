@@ -20,7 +20,6 @@ If your GitHub client does not render the preview inline, open [banner.webm](./b
 ## Prerequisites
 
 - Open WebUI `0.6.0` or newer
-- Administrator access to install Tools, Skills, and Functions
 - A model that can use custom tools
 - Native function calling enabled if you want the model to lazy-load the attached skill automatically
 
