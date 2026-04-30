@@ -4,7 +4,7 @@ Open-Custom Visuals lets Open WebUI respond with visual and interactive content 
 
 Two companion actions are included so users can reopen a finished visual or keep/export it after the reply is complete.
 
-![alt text](https://github.com/ullahsamee/open-visual/blob/main/banner.gif)
+[![▶ Watch Demo](https://img.shields.io/badge/▶%20View%20Demo-blue?style=for-the-badge)](./banner.gif)
 
 ## Included Files
 
