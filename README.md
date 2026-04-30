@@ -4,7 +4,7 @@ Open-Custom Visuals lets Open WebUI respond with visual and interactive content 
 
 Two companion actions are included so users can reopen a finished visual or keep/export it after the reply is complete.
 
-<video src="banner.mp4" controls autoplay muted loop playsinline style="max-width: 100%;"></video>
+![alt text](https://github.com/ullahsamee/open-visual/blob/main/banner.gif)
 
 ## Included Files
 
